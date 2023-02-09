@@ -10,3 +10,4 @@ This code show the various codes required to navigate shell permissions on linux
 9. 8-James_Bond adds full permissions to only world
 10. 9-John_Doe gives full permission to the user, read and execute to the group ad write and execute to world
 11. 10-Mirror_permissions mirrors one file's permission to another
+12. 11-directories_permissions grants execute permissions to the directory ./tmp/h
