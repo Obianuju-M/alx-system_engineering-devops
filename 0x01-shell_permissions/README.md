@@ -8,3 +8,4 @@ This code show the various codes required to navigate shell permissions on linux
 7. 6-multiple_permissionsadds read and execute permissions to the file owner and group owner but only read permission to others
 8. 7-everybody adds theexecute permissions to everybody
 9. 8-James_Bond adds full permissions to only world
+10. 9-John_Doe gives full permission to the user, read and execute to the group ad write and execute to world
