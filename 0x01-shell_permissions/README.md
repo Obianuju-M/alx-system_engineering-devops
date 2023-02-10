@@ -15,3 +15,4 @@ This code show the various codes required to navigate shell permissions on linux
 14. 13-change_group changes the group owner of hello file
 15. 100-change_owner_and_group changes the owner and group of dirctories in the working directory
 16. 101-symbolic_link_permissions changes the user and group of the file _hello
+17. 102-if_only changes the user of file hello to betty only if file originally belongs to guillame
