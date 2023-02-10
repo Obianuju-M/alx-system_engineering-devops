@@ -13,3 +13,4 @@ This code show the various codes required to navigate shell permissions on linux
 12. 11-directories_permissions grants execute permissions to the directory .
 13. 12-directory_permissions grants execute permissions to subdirectories 
 14. 13-change_group changes the group owner of hello file
+15. 100-change_owner_and_group changes the owner and group of dirctories in the working directory
